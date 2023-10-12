@@ -1,0 +1,23 @@
+[
+    {
+        "bookTitle": "To Kill A Mockingbird",
+        "bookAuthor": "Harper Lee",
+        "isAvailable": true,
+        "numberOfPages": 336,
+        "isbnNumber": 9780061120084
+    },
+    {
+        "bookTitle": "1984",
+        "bookAuthor": "George Orwell",
+        "isAvailable": true,
+        "numberOfPages": 267,
+        "isbnNumber": 9780547249643
+    },
+    {
+        "bookTitle": "One Hundred Years Of Solitude",
+        "bookAuthor": "Gabriel Garcia Marquez",
+        "isAvailable": false,
+        "numberOfPages": 457,
+        "isbnNumber": 9785267006323
+    }
+]
